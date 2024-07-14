@@ -5,7 +5,7 @@ url: "https://tcherrie.github.io"
 eleven:
   name: Théodore Cherrière
   date_format: "%b %d, %Y"
-  #logo:  "assets/logo.png" 
+  logo:  "assets/images/logo.png" 
 
 permalink: post/:title
 
