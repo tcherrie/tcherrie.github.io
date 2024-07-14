@@ -1,0 +1,16 @@
+remote_theme: tcherrie/eleven
+#theme: eleven-theme
+url: "https://tcherrie.github.io"
+
+eleven:
+  name: Théodore Cherrière
+  date_format: "%b %d, %Y"
+  logo:  "assets/logo.png" 
+
+permalink: post/:title
+
+title: "Théodore Cherrière's academic website"
+description: "Théodore Cherrière, PostDoc, RICAM Mail: theodore.cherriere@ricam.oeaw.ac.at"
+
+excerpt_separator: <!--more-->
+page_excerpts: true
