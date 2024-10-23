@@ -6,6 +6,7 @@ project:
     - "Hal_css.css"
     - "Hal_css_dark.css"
     - "custom_hal.js"
+    - "googlea2b49b9b8a1e1325.html"
   type: website
   output-dir: public
 website:
