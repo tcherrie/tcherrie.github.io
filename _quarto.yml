@@ -1,0 +1,42 @@
+execute: 
+  freeze: auto
+project:
+  resources:
+    - "Resources"
+    - "Hal_css.css"
+    - "Hal_css_dark.css"
+    - "custom_hal.js"
+  type: website
+  output-dir: public
+website:
+  title: "T.Cherrière"
+  #image: avatar.jpg
+  #favicon: avatar.jpg
+  description: "Théodore Cherrière's personal webpage"
+  site-url: https://tcherrie.github.io/
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Conference incoming** - We'll be [presenting our work](https://alexandredabyseesaram.github.io/talks.html) at the incoming [VPH2024 in Stuttgart](https://vph-conference.org/) "
+  #   type: light
+  #   position: below-navbar
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    include-after-body:
+      text: |
+        <script type="application/javascript" src="custom_hal.js"></script>
+
+
+

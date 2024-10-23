@@ -1,0 +1,33 @@
+---
+title: Théodore Cherrière
+image: avatar.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - text: "{{< iconify fa-brands:orcid >}} Orcid"
+      href: https://orcid.org/0000-0001-5421-4061
+    - text: "{{< iconify fa6-brands:google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=a-lfmXIAAAAJ&hl=en
+    - text: "{{< iconify simple-icons:researchgate >}} Researchgate"
+      href: https://www.researchgate.net/profile/Theodore-Cherriere
+    - icon: github
+      text: Github
+      href: https://github.com/tcherrie?tab=repositories
+    - icon: envelope
+      text: Email
+      href: 'mailto: theodore.cherriere@ricam.oeaw.ac.at'
+format:
+  html:
+    page-layout: full
+    #include-in-header:
+    #  - text: |
+    #      <meta name="google-site-verification" content="lyL1_aIiJN9ihH1tHYGqzCDubMyGXCILlJTVjZw" />
+---
+# Welcome, 
+I'm Théodore Cherrière, a Postdoctoral researcher at [RICAM](https://www.oeaw.ac.at/ricam/home).
+
+I hold a Ph.D. in **electrical engineering** from the University Paris-Saclay (ENS Paris-Saclay), where I worked at the [SATIE](https://satie.ens-paris-saclay.fr/fr). 
+
+My main research interest consists of TODO
+
