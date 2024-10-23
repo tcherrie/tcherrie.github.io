@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html</loc>
+    <lastmod>2024-10-23T17:09:14.038Z</lastmod>
+  </url>
+  <url>
     <loc>https://tcherrie.github.io/index.html</loc>
-    <lastmod>2024-10-23T16:41:12.730Z</lastmod>
+    <lastmod>2024-10-23T17:09:14.038Z</lastmod>
   </url>
   <url>
     <loc>https://tcherrie.github.io/research.html</loc>
-    <lastmod>2024-10-23T16:41:12.738Z</lastmod>
+    <lastmod>2024-10-23T17:09:14.050Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/news.html</loc>
+    <lastmod>2024-10-23T17:09:14.038Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/index.html</loc>
+    <lastmod>2024-10-23T17:09:14.038Z</lastmod>
   </url>
 </urlset>
