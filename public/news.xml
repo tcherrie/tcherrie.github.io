@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Théodore Cherrière</title>
+<link>https://tcherrie.github.io/news.html</link>
+<atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
+<description>Théodore Cherrière&#39;s personal webpage</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Tue, 05 Nov 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>IEEE Magnetic Society webinar</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I will give a <a href="https://x.com/IEEEMagSoc/status/1836374722906386598">IEEE Magnetic Society webinar</a> entitled “Pushing creativity further in electrical machine design using topology optimization”.</p>
+<p>Do not hesitate to check it out at the following <a href="https://t.co/rAPrtCJIvJ">link</a>, on November 6, 1pm.</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</guid>
+  <pubDate>Tue, 05 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/IEEEMagSoc.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Keynote talk at CISTEM 2024</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I am honoured to give a keynote talk at <a href="https://cistem2024.sciencesconf.org/?lang=en">IEEE CISTEM 2024 conference</a>, entitled “Topology optimization of rotating electrical machines: state of the art and applications”.</p>
+
+
+
+ ]]></description>
+  <category>Talk</category>
+  <category>To Come</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/</guid>
+  <pubDate>Wed, 30 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/CISTEM.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+</channel>
+</rss>

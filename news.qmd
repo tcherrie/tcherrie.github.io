@@ -10,7 +10,7 @@ listing:
   image-align: right
   image-height: 125pt
   max-description-length: 125
-  categories: false
+  categories: true
   sort-ui: false
   filter-ui: false
   feed: true

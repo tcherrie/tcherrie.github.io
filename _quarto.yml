@@ -24,12 +24,12 @@ website:
         text: News
      # - href: Resources/chemin_pdf
      #   text: le nom cliquable sur le site
-  # announcement: 
-  #   icon: info-circle
-  #   dismissable: true
-  #   content: "**Conference incoming** - We'll be [presenting our work](https://alexandredabyseesaram.github.io/talks.html) at the incoming [VPH2024 in Stuttgart](https://vph-conference.org/) "
-  #   type: light
-  #   position: below-navbar
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Webinar incoming** - 2024-11-06 : [IEEE Magnetic Society webinar](https://x.com/IEEEMagSoc/status/1836374722906386598) "
+    type: light
+    position: below-navbar
 
 format:
   html:

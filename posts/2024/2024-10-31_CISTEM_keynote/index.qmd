@@ -2,7 +2,8 @@
 title: "Keynote talk at CISTEM 2024"
 date: "2024-10-31"
 categories:
-    - "News"
+    - "Talk"
+    - "To Come"
 image: "CISTEM.png"
 ---
 
