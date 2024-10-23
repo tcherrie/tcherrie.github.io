@@ -20,6 +20,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+     # - href: Resources/chemin_pdf
+     #   text: le nom cliquable sur le site
   # announcement: 
   #   icon: info-circle
   #   dismissable: true
