@@ -9,7 +9,7 @@ project:
   type: website
   output-dir: public
 website:
-  title: "T.Cherrière"
+  title: "Théodore Cherrière"
   #image: avatar.jpg
   #favicon: avatar.jpg
   description: "Théodore Cherrière's personal webpage"
