@@ -29,5 +29,5 @@ I'm Théodore Cherrière, a Postdoctoral researcher at [RICAM](https://www.oeaw.
 
 I hold a Ph.D. in **electrical engineering** from the University Paris-Saclay (ENS Paris-Saclay), where I worked at the [SATIE](https://satie.ens-paris-saclay.fr/fr). 
 
-My main research interest consists of TODO
+My main research interest consists of topology optimization of electrical machines.
 
