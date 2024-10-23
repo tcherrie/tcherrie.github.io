@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -169,17 +169,20 @@ window.Quarto = {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <div id="quarto-announcement" data-announcement-id="53b58697fe7a5c59be8a9850c1bb3564" class="alert alert-light hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p><strong>Webinar incoming</strong> - 2024-11-06 : <a href="https://x.com/IEEEMagSoc/status/1836374722906386598">IEEE Magnetic Society webinar</a></p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
+    <div class="quarto-title column-page-left">
       <h1 class="title">News</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -190,11 +193,11 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="News">News <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Talk">Talk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="To Come">To Come <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
@@ -206,7 +209,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="News" data-listing-date-sort="1730851200000" data-listing-file-modified-sort="1729703472426" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
+<div class="quarto-post image-right" data-index="0" data-categories="News" data-listing-date-sort="1730851200000" data-listing-file-modified-sort="1729704411608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
 <div class="thumbnail">
 <p><a href="./posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html" class="no-external"></a></p><a href="./posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html" class="no-external">
 <p><img loading="lazy" src="./posts/2024/2024-11-6_IEEE_MagSoc_webinar/IEEEMagSoc.png" class="thumbnail-image" style="height: 125pt;"></p>
@@ -218,6 +221,11 @@ window.Quarto = {
 </h3>
 <div class="listing-subtitle">
 <a href="./posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('News'); return false;">
+News
+</div>
 </div>
 <div class="listing-description">
 <a href="./posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html" class="no-external">I will give a IEEE Magnetic Society webinar entitled “Pushing creativity further in electrical machine design using…</a>
@@ -231,7 +239,7 @@ Nov 6, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="News" data-listing-date-sort="1730332800000" data-listing-file-modified-sort="1729703472426" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
+<div class="quarto-post image-right" data-index="1" data-categories="Talk,To Come" data-listing-date-sort="1730332800000" data-listing-file-modified-sort="1729704411608" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
 <div class="thumbnail">
 <p><a href="./posts/2024/2024-10-31_CISTEM_keynote/index.html" class="no-external"></a></p><a href="./posts/2024/2024-10-31_CISTEM_keynote/index.html" class="no-external">
 <p><img loading="lazy" src="./posts/2024/2024-10-31_CISTEM_keynote/CISTEM.png" class="thumbnail-image" style="height: 125pt;"></p>
@@ -243,6 +251,14 @@ Nov 6, 2024
 </h3>
 <div class="listing-subtitle">
 <a href="./posts/2024/2024-10-31_CISTEM_keynote/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Talk'); return false;">
+Talk
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('To Come'); return false;">
+To Come
+</div>
 </div>
 <div class="listing-description">
 <a href="./posts/2024/2024-10-31_CISTEM_keynote/index.html" class="no-external">I am honoured to give a keynote talk at IEEE CISTEM 2024 conference, entitled “Topology optimization of rotating electrical…</a>
