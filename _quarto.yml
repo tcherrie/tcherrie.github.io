@@ -20,6 +20,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: news.qmd
+        text: News
      # - href: Resources/chemin_pdf
      #   text: le nom cliquable sur le site
   # announcement: 
