@@ -28,7 +28,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Internship offers available** - [Strudy of a new flux-switching machine](/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.qmd), [Implementation of FEM on interpretable NN](/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.qmd)"
+    content: "**Internship offers available** - [Study of a new flux-switching machine](/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.qmd), [Implementation of FEM on interpretable NN](/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.qmd)"
     type: light
     position: below-navbar
 
