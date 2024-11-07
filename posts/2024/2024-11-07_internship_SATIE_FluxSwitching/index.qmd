@@ -1,0 +1,10 @@
+---
+title: "Study of a new flux-switching machine"
+date: "2024-11-07"
+categories:
+    - "Internship offer"
+image: "FSM.png"
+---
+
+Together with [Pr. Sami Hlioui](https://cv.hal.science/sami-hlioui) (CY Cergy Paris University), we are looking for master students to study a new flux-switching machine found by topology optimization, potentially with a reduced quantity of rare earth permanent magnets. The detailed internship description can be found
+[here](/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/sujet4Stage_MCF.pdf) (in French).

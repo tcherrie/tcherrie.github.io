@@ -7,31 +7,52 @@
     "text": "Work in progress"
   },
   {
-    "objectID": "posts/2024/2024-10-31_CISTEM_keynote/index.html",
-    "href": "posts/2024/2024-10-31_CISTEM_keynote/index.html",
-    "title": "Keynote talk at CISTEM 2024",
+    "objectID": "posts/2024/2024-11-07_newPosition_GeePs/index.html",
+    "href": "posts/2024/2024-11-07_newPosition_GeePs/index.html",
+    "title": "New position : Ass. Prof at CentraleSupélec",
     "section": "",
-    "text": "I am honoured to give a keynote talk at IEEE CISTEM 2024 conference, entitled “Topology optimization of rotating electrical machines: state of the art and applications”."
+    "text": "I’m pleased to announce that as of December 1, I’ll be taking up the position of Assistant Professor at CentraleSupélec. My research will be carried out in the GeePs laboratory."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Théodore Cherrière",
+    "objectID": "posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html",
+    "href": "posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html",
+    "title": "Implementation of FEM on interpetable neural networks",
     "section": "",
-    "text": "Welcome,\nI’m Théodore Cherrière, a Postdoctoral researcher at RICAM.\nI hold a Ph.D. in electrical engineering from the University Paris-Saclay (ENS Paris-Saclay), where I worked at the SATIE.\nMy main research interest consists of topology optimization of electrical machines."
+    "text": "Together with Dr. Alexandre Daby-Seesaram (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found here (in French)."
   },
   {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "IEEE Magnetic Society webinar\n\n\n\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKeynote talk at CISTEM 2024\n\n\n\n\n\n\nTalk\n\n\nTo Come\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Study of a new flux-switching machine\n\n\n\n\n\n\nInternship offer\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew position : Ass. Prof at CentraleSupélec\n\n\n\n\n\n\nPosition\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImplementation of FEM on interpetable neural networks\n\n\n\n\n\n\nInternship offer\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIEEE Magnetic Society webinar\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKeynote talk at CISTEM 2024\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Théodore Cherrière",
+    "section": "",
+    "text": "Welcome,\nI’m Théodore Cherrière, a Postdoctoral researcher at RICAM.\nI hold a Ph.D. in electrical engineering from the Paris-Saclay University (ENS Paris-Saclay), where I worked at the SATIE. My PhD thesis can be found here (in French). My main research interest consists of topology optimization of electrical machines.\n\n\n\nCSMA 2024, Giens\n\n\n\n\n\nPhD Thesis, p. 227"
+  },
+  {
+    "objectID": "posts/2024/2024-10-31_CISTEM_keynote/index.html",
+    "href": "posts/2024/2024-10-31_CISTEM_keynote/index.html",
+    "title": "Keynote talk at CISTEM 2024",
+    "section": "",
+    "text": "I am honoured to give a keynote talk at IEEE CISTEM 2024 conference, entitled “Topology optimization of rotating electrical machines: state of the art and applications”.\n\n\n\nMain amphitheater of ENSAM engineering school in Rabat, Morocco"
+  },
+  {
+    "objectID": "posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html",
+    "href": "posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html",
+    "title": "Study of a new flux-switching machine",
+    "section": "",
+    "text": "Together with Pr. Sami Hlioui (CY Cergy Paris University), we are looking for master students to study a new flux-switching machine found by topology optimization, potentially with a reduced quantity of rare earth permanent magnets. The detailed internship description can be found here (in French)."
   },
   {
     "objectID": "posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html",
     "href": "posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html",
     "title": "IEEE Magnetic Society webinar",
     "section": "",
-    "text": "I will give a IEEE Magnetic Society webinar entitled “Pushing creativity further in electrical machine design using topology optimization”.\nDo not hesitate to check it out at the following Zoom link, on November 6, 1pm."
+    "text": "I gave a IEEE Magnetic Society webinar entitled “Pushing creativity further in electrical machine design using topology optimization”.\nDo not hesitate to check it out at the following Zoom link, on November 6, 1pm. A recording will be available soon!"
   }
 ]

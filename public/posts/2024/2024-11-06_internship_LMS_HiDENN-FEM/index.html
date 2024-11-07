@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-11-06">
 
-<title>Théodore Cherrière</title>
+<title>Implementation of FEM on interpetable neural networks – Théodore Cherrière</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -80,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Théodore Cherrière</span>
     </a>
   </div>
@@ -91,15 +92,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../../../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
+    <a class="nav-link" href="../../../news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
 </ul>
@@ -110,67 +111,52 @@ ul.task-list li input[type="checkbox"] {
       </div> <!-- /container-fluid -->
     </nav>
   <div id="quarto-announcement" data-announcement-id="3a39d0b91f03cbf48c94a90ad257c1c7" class="alert alert-light hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p><strong>Internship offers available</strong> - <a href="./posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html">Strudy of a new flux-switching machine</a>, <a href="./posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html">Implementation of FEM on interpretable NN</a></p>
+<p><strong>Internship offers available</strong> - <a href="../../../posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html">Strudy of a new flux-switching machine</a>, <a href="../../../posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html">Implementation of FEM on interpretable NN</a></p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla column-page">
-  <img src="avatar.jpg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Théodore Cherrière</h1>
-</div>
-<div class="quarto-title-meta column-page">
+<h1 class="title">Implementation of FEM on interpetable neural networks</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Internship offer</div>
   </div>
-</header><main class="content column-page" id="quarto-document-content">
-<section id="welcome" class="level1">
-<h1>Welcome,</h1>
-<p>I’m Théodore Cherrière, a Postdoctoral researcher at <a href="https://www.oeaw.ac.at/ricam/home">RICAM</a>.</p>
-<p>I hold a Ph.D.&nbsp;in <strong>electrical engineering</strong> from the <a href="https://www.universite-paris-saclay.fr/en">Paris-Saclay University</a> (<a href="https://ens-paris-saclay.fr/en">ENS Paris-Saclay</a>), where I worked at the <a href="https://satie.ens-paris-saclay.fr/fr">SATIE</a>. My PhD thesis can be found <a href="https://theses.fr/2023UPAST159">here</a> (in French). My main research interest consists of topology optimization of electrical machines.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Resources/Images/giens2024.png" title="CSMA 2024" class="img-fluid figure-img"></p>
-<figcaption><a href="https://hal.science/hal-04586939/document">CSMA 2024, Giens</a></figcaption>
-</figure>
-</div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Resources/Images/theseMMTO_mk.png" title="fullMachine" class="img-fluid figure-img"></p>
-<figcaption><a href="https://theses.hal.science/tel-04636530">PhD Thesis, p.&nbsp;227</a></figcaption>
-</figure>
-</div>
+  </div>
 
 
-</section>
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://orcid.org/0000-0001-5421-4061" class="about-link" rel="" target="">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa-brands:orcid" aria-label="Icon orcid from fa-brands Iconify.design set." title="Icon orcid from fa-brands Iconify.design set."></iconify-icon> Orcid</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=a-lfmXIAAAAJ&amp;hl=en" class="about-link" rel="" target="">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="fa6-brands:google-scholar" aria-label="Icon google-scholar from fa6-brands Iconify.design set." title="Icon google-scholar from fa6-brands Iconify.design set."></iconify-icon> Scholar</span>
-  </a>
-  <a href="https://www.researchgate.net/profile/Theodore-Cherriere" class="about-link" rel="" target="">
-     <span class="about-link-text"><iconify-icon role="img" inline="" icon="simple-icons:researchgate" aria-label="Icon researchgate from simple-icons Iconify.design set." title="Icon researchgate from simple-icons Iconify.design set."></iconify-icon> Researchgate</span>
-  </a>
-  <a href="https://github.com/tcherrie?tab=repositories" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="mailto: theodore.cherriere@ricam.oeaw.ac.at" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 6, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Together with <a href="https://alexandredabyseesaram.github.io/">Dr.&nbsp;Alexandre Daby-Seesaram</a> (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found <a href="../../..\posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf">here</a> (in French).</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -335,6 +321,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

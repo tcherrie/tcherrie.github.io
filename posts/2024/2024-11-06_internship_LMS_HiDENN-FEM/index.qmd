@@ -1,0 +1,9 @@
+---
+title: "Implementation of FEM on interpetable neural networks"
+date: "2024-11-06"
+categories:
+    - "Internship offer"
+image: "HiDENN-FEM.png"
+---
+
+Together with [Dr. Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io/) (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found [here](/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf) (in French).

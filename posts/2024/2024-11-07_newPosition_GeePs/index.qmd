@@ -1,0 +1,9 @@
+---
+title: "New position : Ass. Prof at CentraleSupélec"
+date: "2024-11-07"
+categories:
+    - "Position"
+image: "geepsCSlogo.png"
+---
+
+I'm pleased to announce that as of December 1, I'll be taking up the position of Assistant Professor at [CentraleSupélec](https://www.centralesupelec.fr/en). My research will be carried out in the [GeePs](https://www.geeps.centralesupelec.fr/index.php?page=home) laboratory.
