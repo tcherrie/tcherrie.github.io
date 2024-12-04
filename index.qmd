@@ -24,11 +24,11 @@ format:
    #   - text: |
    #       <meta name="google-site-verification" content="lyL1_aIiJN9ihH1tHYGqzCDubMyGXCILlJTVjZw" />
 ---
-# Welcome, 
-I'm Théodore Cherrière, a Postdoctoral researcher at [RICAM](https://www.oeaw.ac.at/ricam/home).
+# Welcome to my website, 
+I am Assistant Professor at [CentraleSupélec](https://www.centralesupelec.fr/en) ([Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)). I do my research in the [GeePs laboratory](https://www.geeps.centralesupelec.fr/index.php?page=home). I teach electrical engineering, and my main research focuses on the topology optimization of electrical machines.
 
-I hold a Ph.D. in **electrical engineering** from the [Paris-Saclay University](https://www.universite-paris-saclay.fr/en) ([ENS Paris-Saclay](https://ens-paris-saclay.fr/en)), where I worked at the [SATIE](https://satie.ens-paris-saclay.fr/fr). My PhD thesis can be found [here](https://theses.fr/2023UPAST159) (in French).
-My main research interest consists of topology optimization of electrical machines.
+
+I hold a Ph.D. in electrical engineering from the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) ([ENS Paris-Saclay](https://ens-paris-saclay.fr/en)), where I worked at the [SATIE](https://satie.ens-paris-saclay.fr/fr). My PhD thesis can be found [here](https://theses.fr/2023UPAST159) (in French). Then, I did a postdoctoral stay at [RICAM](https://www.oeaw.ac.at/ricam/home), where I was associated member of the [CREATOR research consortium](https://www.tu-darmstadt.de/trr361/home_trr361/index.en.jsp). 
 
 ![[CSMA 2024, Giens](https://hal.science/hal-04586939/document)](Resources/Images/giens2024.png "CSMA 2024")
 
