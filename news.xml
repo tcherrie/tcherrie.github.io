@@ -10,7 +10,26 @@
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 07 Nov 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Thesis award : SEE Ampère 2024</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It’s a great honour for me to have received the 2024 “Ampère” thesis prize from <a href="https://see.asso.fr/">SEE</a> for my work on <strong>topology optimization of electrical machines</strong>! I gave a talk at the award ceremony, the slides are available <a href="slidesSEE.pdf">here</a>. Congratulation also to <a href="https://www.linkedin.com/in/icarovsoares">Icaro Veloso Soraes</a> Link to my <a href="https://theses.fr/2023UPAST159">PhD thesis</a> (in French), and soon to the pictures of the ceremony.</p>
+
+
+
+ ]]></description>
+  <category>Award</category>
+  <category>Talk</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</guid>
+  <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/logoSEEAmpere.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Study of a new flux-switching machine</title>
   <link>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/</link>
@@ -48,24 +67,6 @@
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/geepsCSlogo.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
-  <title>Implementation of FEM on interpetable neural networks</title>
-  <link>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Together with <a href="https://alexandredabyseesaram.github.io/">Dr.&nbsp;Alexandre Daby-Seesaram</a> (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found <a href="../../../posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf">here</a> (in French).</p>
-
-
-
- ]]></description>
-  <category>Internship offer</category>
-  <guid>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</guid>
-  <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM.png" medium="image" type="image/png" height="67" width="144"/>
-</item>
-<item>
   <title>IEEE Magnetic Society webinar</title>
   <link>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</link>
   <description><![CDATA[ 
@@ -85,6 +86,24 @@
   <guid>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</guid>
   <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/IEEEMagSoc.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Implementation of FEM on interpetable neural networks</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Together with <a href="https://alexandredabyseesaram.github.io/">Dr.&nbsp;Alexandre Daby-Seesaram</a> (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found <a href="../../../posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf">here</a> (in French).</p>
+
+
+
+ ]]></description>
+  <category>Internship offer</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</guid>
+  <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
 <item>
   <title>Keynote talk at CISTEM 2024</title>

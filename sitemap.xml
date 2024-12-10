@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html</loc>
-    <lastmod>2024-12-04T20:47:55.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/index.html</loc>
-    <lastmod>2024-12-04T20:47:55.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html</loc>
-    <lastmod>2024-12-04T20:47:55.069Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/news.html</loc>
-    <lastmod>2024-12-04T20:47:55.053Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/research.html</loc>
-    <lastmod>2024-12-04T20:47:55.101Z</lastmod>
-  </url>
-  <url>
     <loc>https://tcherrie.github.io/index.html</loc>
-    <lastmod>2024-12-04T20:47:55.053Z</lastmod>
+    <lastmod>2024-12-10T20:54:24.754Z</lastmod>
   </url>
   <url>
     <loc>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/index.html</loc>
-    <lastmod>2024-12-04T20:47:55.065Z</lastmod>
+    <lastmod>2024-12-10T20:54:24.776Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/index.html</loc>
+    <lastmod>2024-12-10T20:54:24.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html</loc>
+    <lastmod>2024-12-10T20:54:24.785Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/research.html</loc>
+    <lastmod>2024-12-10T20:54:24.820Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/news.html</loc>
+    <lastmod>2024-12-10T20:54:24.754Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html</loc>
+    <lastmod>2024-12-10T20:54:24.781Z</lastmod>
   </url>
   <url>
     <loc>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html</loc>
-    <lastmod>2024-12-04T20:47:55.069Z</lastmod>
+    <lastmod>2024-12-10T20:54:24.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/index.html</loc>
+    <lastmod>2024-12-10T20:54:24.755Z</lastmod>
   </url>
 </urlset>
