@@ -9,8 +9,26 @@
 <link>https://tcherrie.github.io/news.html</link>
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 09 Dec 2024 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Tue, 14 Jan 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Thesis award : Paul Caseau 2024</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It’s a great honour for me to have received the 2024 “Paul Caseau” thesis prize from <a href="https://www.edf.fr/">EDF</a> for my PhD work on <strong>topology optimization of electrical machines</strong>! Congratulation also to <a href="https://thomasbellotti.altervista.org/">Thomas Bellotti</a>, with whom I share the prize, and also to the other laureates <a href="https://www.linkedin.com/in/r%C3%A9mi-dorget-5a4b7313a/">Rémi Dorget</a> and <a href="https://www.linkedin.com/in/candela-utrilla/">Candelaria Utrilla Bustamante</a> Link to my <a href="https://theses.fr/2023UPAST159">PhD thesis</a> (in French), and soon to the pictures of the ceremony.</p>
+
+
+
+ ]]></description>
+  <category>Award</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</guid>
+  <pubDate>Tue, 14 Jan 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/prixCaseauBandeau.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
 <item>
   <title>Thesis award : SEE Ampère 2024</title>
   <link>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</link>
@@ -39,11 +57,13 @@
 
 
 <p>Together with <a href="https://cv.hal.science/sami-hlioui">Pr. Sami Hlioui</a> (CY Cergy Paris University), we are looking for master students to study a new flux-switching machine found by topology optimization, potentially with a reduced quantity of rare earth permanent magnets. The detailed internship description can be found <a href="../../..\posts/2024/2024-11-07_internship_SATIE_FluxSwitching/sujet4Stage_MCF.pdf">here</a> (in French).</p>
+<p><strong>Update</strong> : the position has been filled.</p>
 
 
 
  ]]></description>
   <category>Internship offer</category>
+  <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/</guid>
   <pubDate>Wed, 06 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/FSM.png" medium="image" type="image/png" height="92" width="144"/>
@@ -75,11 +95,13 @@
 
 
 <p>Together with <a href="https://alexandredabyseesaram.github.io/">Dr.&nbsp;Alexandre Daby-Seesaram</a> (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found <a href="../../..\posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf">here</a> (in French).</p>
+<p><strong>Update</strong> : the position has been filled.</p>
 
 
 
  ]]></description>
   <category>Internship offer</category>
+  <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</guid>
   <pubDate>Tue, 05 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM.png" medium="image" type="image/png" height="67" width="144"/>
