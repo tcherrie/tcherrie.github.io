@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Théodore Cherrière",
+    "objectID": "posts/2025/2025-01-15_prix_Caseau/index.html",
+    "href": "posts/2025/2025-01-15_prix_Caseau/index.html",
+    "title": "Thesis award : Paul Caseau 2024",
     "section": "",
-    "text": "Picture credit : Claudia Boerner\n\nWelcome to my website,\nI am Assistant Professor at CentraleSupélec (Université Paris-Saclay). I do my research in the GeePs laboratory. I teach electrical engineering, and my main research focuses on the topology optimization of electrical machines.\nI hold a Ph.D. in electrical engineering from the Université Paris-Saclay (ENS Paris-Saclay), where I worked at the SATIE. My PhD thesis can be found here (in French). Then, I did a postdoctoral stay at RICAM, where I was associated member of the CREATOR research consortium.\n\n\n\nCSMA 2024, Giens\n\n\n\n\n\nPhD Thesis, p. 227"
+    "text": "It’s a great honour for me to have received the 2024 “Paul Caseau” thesis prize from EDF and Académie des Technologies for my PhD work on topology optimization of electrical machines! Congratulation also to Thomas Bellotti, with whom I share the prize, and also to the other laureates Rémi Dorget and Candelaria Utrilla Bustamante.\nLink to my PhD thesis (in French), and soon to the pictures of the ceremony."
+  },
+  {
+    "objectID": "posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html",
+    "href": "posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html",
+    "title": "IEEE Magnetic Society webinar",
+    "section": "",
+    "text": "I gave a IEEE Magnetic Society webinar entitled “Pushing creativity further in electrical machine design using topology optimization”."
   },
   {
     "objectID": "posts/2024/2024-10-31_CISTEM_keynote/index.html",
@@ -21,11 +28,11 @@
     "text": "I’m pleased to announce that as of December 1, I’ll be taking up the position of Assistant Professor at CentraleSupélec. My research will be carried out in the GeePs laboratory."
   },
   {
-    "objectID": "posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html",
-    "href": "posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html",
-    "title": "IEEE Magnetic Society webinar",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
     "section": "",
-    "text": "I gave a IEEE Magnetic Society webinar entitled “Pushing creativity further in electrical machine design using topology optimization”."
+    "text": "Thesis award : Paul Caseau 2024\n\n\n\n\n\n\nAward\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThesis award : SEE Ampère 2024\n\n\n\n\n\n\nAward\n\n\nTalk\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew position : Ass. Prof at CentraleSupélec\n\n\n\n\n\n\nPosition\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nStudy of a new flux-switching machine\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImplementation of FEM on interpetable neural networks\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIEEE Magnetic Society webinar\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKeynote talk at CISTEM 2024\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research.html#work-in-progress",
@@ -35,18 +42,11 @@
     "text": "Work in progress\n\nHiped package for hierarchical interpolations, useful in multi-material density-based topology optimization.\nMany other related things…"
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Théodore Cherrière",
     "section": "",
-    "text": "Thesis award : SEE Ampère 2024\n\n\n\n\n\n\nAward\n\n\nTalk\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nStudy of a new flux-switching machine\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew position : Ass. Prof at CentraleSupélec\n\n\n\n\n\n\nPosition\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIEEE Magnetic Society webinar\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImplementation of FEM on interpetable neural networks\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKeynote talk at CISTEM 2024\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html",
-    "href": "posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html",
-    "title": "Study of a new flux-switching machine",
-    "section": "",
-    "text": "Together with Pr. Sami Hlioui (CY Cergy Paris University), we are looking for master students to study a new flux-switching machine found by topology optimization, potentially with a reduced quantity of rare earth permanent magnets. The detailed internship description can be found here (in French).\nUpdate : the position has been filled."
+    "text": "Picture credit : Claudia Boerner\n\nWelcome to my website,\nI am Assistant Professor at CentraleSupélec (Université Paris-Saclay). I do my research in the GeePs laboratory. I teach electrical engineering, and my main research focuses on the topology optimization of electrical machines.\nI hold a Ph.D. in electrical engineering from the Université Paris-Saclay (ENS Paris-Saclay), where I worked at the SATIE. My PhD thesis can be found here (in French). Then, I did a postdoctoral stay at RICAM, where I was associated member of the CREATOR research consortium.\n\n\n\nCSMA 2024, Giens\n\n\n\n\n\nPhD Thesis, p. 227"
   },
   {
     "objectID": "posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html",
@@ -54,6 +54,13 @@
     "title": "Implementation of FEM on interpetable neural networks",
     "section": "",
     "text": "Together with Dr. Alexandre Daby-Seesaram (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found here (in French).\nUpdate : the position has been filled."
+  },
+  {
+    "objectID": "posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html",
+    "href": "posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html",
+    "title": "Study of a new flux-switching machine",
+    "section": "",
+    "text": "Together with Pr. Sami Hlioui (CY Cergy Paris University), we are looking for master students to study a new flux-switching machine found by topology optimization, potentially with a reduced quantity of rare earth permanent magnets. The detailed internship description can be found here (in French).\nUpdate : the position has been filled."
   },
   {
     "objectID": "posts/2024/2024-10-12_prix_Ampere_SEE/index.html",

@@ -9,8 +9,27 @@
 <link>https://tcherrie.github.io/news.html</link>
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Tue, 10 Dec 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Thesis award : Paul Caseau 2024</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It’s a great honour for me to have received the 2024 “Paul Caseau” thesis prize from <a href="https://www.edf.fr/">EDF</a> and <a href="https://www.academie-technologies.fr/">Académie des Technologies</a> for my PhD work on <strong>topology optimization of electrical machines</strong>! Congratulation also to <a href="https://thomasbellotti.altervista.org/">Thomas Bellotti</a>, with whom I share the prize, and also to the other laureates <a href="https://www.linkedin.com/in/r%C3%A9mi-dorget-5a4b7313a/">Rémi Dorget</a> and <a href="https://www.linkedin.com/in/candela-utrilla/">Candelaria Utrilla Bustamante</a>.</p>
+<p>Link to my <a href="https://theses.fr/2023UPAST159">PhD thesis</a> (in French), and soon to the pictures of the ceremony.</p>
+
+
+
+ ]]></description>
+  <category>Award</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</guid>
+  <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/prixCaseauBandeau.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
 <item>
   <title>Thesis award : SEE Ampère 2024</title>
   <link>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</link>
@@ -29,6 +48,24 @@
   <guid>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</guid>
   <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/logoSEEAmpere.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>New position : Ass. Prof at CentraleSupélec</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I’m pleased to announce that as of December 1, I’ll be taking up the position of Assistant Professor at <a href="https://www.centralesupelec.fr/en">CentraleSupélec</a>. My research will be carried out in the <a href="https://www.geeps.centralesupelec.fr/index.php?page=home">GeePs</a> laboratory.</p>
+
+
+
+ ]]></description>
+  <category>Position</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</guid>
+  <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/geepsCSlogo.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>Study of a new flux-switching machine</title>
@@ -51,22 +88,24 @@
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/FSM.png" medium="image" type="image/png" height="92" width="144"/>
 </item>
 <item>
-  <title>New position : Ass. Prof at CentraleSupélec</title>
-  <link>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</link>
+  <title>Implementation of FEM on interpetable neural networks</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>I’m pleased to announce that as of December 1, I’ll be taking up the position of Assistant Professor at <a href="https://www.centralesupelec.fr/en">CentraleSupélec</a>. My research will be carried out in the <a href="https://www.geeps.centralesupelec.fr/index.php?page=home">GeePs</a> laboratory.</p>
+<p>Together with <a href="https://alexandredabyseesaram.github.io/">Dr.&nbsp;Alexandre Daby-Seesaram</a> (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found <a href="../../../posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf">here</a> (in French).</p>
+<p><strong>Update</strong> : the position has been filled.</p>
 
 
 
  ]]></description>
-  <category>Position</category>
-  <guid>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</guid>
-  <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/geepsCSlogo.png" medium="image" type="image/png" height="76" width="144"/>
+  <category>Internship offer</category>
+  <category>Past</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</guid>
+  <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
 <item>
   <title>IEEE Magnetic Society webinar</title>
@@ -88,26 +127,6 @@
   <guid>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</guid>
   <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/IEEEMagSoc.png" medium="image" type="image/png" height="72" width="144"/>
-</item>
-<item>
-  <title>Implementation of FEM on interpetable neural networks</title>
-  <link>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Together with <a href="https://alexandredabyseesaram.github.io/">Dr.&nbsp;Alexandre Daby-Seesaram</a> (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found <a href="../../../posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf">here</a> (in French).</p>
-<p><strong>Update</strong> : the position has been filled.</p>
-
-
-
- ]]></description>
-  <category>Internship offer</category>
-  <category>Past</category>
-  <guid>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</guid>
-  <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
 <item>
   <title>Keynote talk at CISTEM 2024</title>
