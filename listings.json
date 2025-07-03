@@ -2,10 +2,11 @@
   {
     "listing": "/news.html",
     "items": [
+      "/posts/2025/2025-06-26_compumag/index.html",
       "/posts/2025/2025-01-15_prix_Caseau/index.html",
       "/posts/2024/2024-10-12_prix_Ampere_SEE/index.html",
-      "/posts/2024/2024-11-07_newPosition_GeePs/index.html",
       "/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html",
+      "/posts/2024/2024-11-07_newPosition_GeePs/index.html",
       "/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html",
       "/posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html",
       "/posts/2024/2024-10-31_CISTEM_keynote/index.html"

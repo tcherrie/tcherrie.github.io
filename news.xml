@@ -9,12 +9,33 @@
 <link>https://tcherrie.github.io/news.html</link>
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Thu, 26 Jun 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Compumag 2025</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week, I took part in the Compumag conference in Naples. I had three contributions with colleagues from RICAM (<a href="https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn">Nepomuk Krenn</a> and <a href="https://www.oeaw.ac.at/ricam/staff/peter-gangl">Peter Gangl</a>), G2ELab (Stéphane Gaydier) and ENS Paris-Saclay (Itaï Zehavi).</p>
+<p>Congratulations to Stéphane, who received an honorable mention for his work and presentation on optimizing the air gap profile of an inductor to minimize AC losses! The code is available <a href="https://github.com/StephLeMedef/inductance-compumag">here</a>.</p>
+
+
+
+ ]]></description>
+  <category>Conference</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</guid>
+  <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-06-26_compumag/stephane.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Thesis award : Paul Caseau 2024</title>
   <link>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -38,6 +59,7 @@
 
 
 
+
 <p>It’s a great honour for me to have received the 2024 “Ampère” thesis prize from <a href="https://see.asso.fr/">SEE</a> for my work on <strong>topology optimization of electrical machines</strong>! I gave a talk at the award ceremony, the slides are available <a href="slidesSEE.pdf">here</a>. Congratulation also to <a href="https://www.linkedin.com/in/icarovsoares">Icaro Veloso Soraes</a> Link to my <a href="https://theses.fr/2023UPAST159">PhD thesis</a> (in French), and soon to the pictures of the ceremony.</p>
 
 
@@ -50,27 +72,10 @@
   <media:content url="https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/logoSEEAmpere.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
-  <title>New position : Ass. Prof at CentraleSupélec</title>
-  <link>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>I’m pleased to announce that as of December 1, I’ll be taking up the position of Assistant Professor at <a href="https://www.centralesupelec.fr/en">CentraleSupélec</a>. My research will be carried out in the <a href="https://www.geeps.centralesupelec.fr/index.php?page=home">GeePs</a> laboratory.</p>
-
-
-
- ]]></description>
-  <category>Position</category>
-  <guid>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</guid>
-  <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/geepsCSlogo.png" medium="image" type="image/png" height="76" width="144"/>
-</item>
-<item>
   <title>Study of a new flux-switching machine</title>
   <link>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -88,9 +93,29 @@
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/FSM.png" medium="image" type="image/png" height="92" width="144"/>
 </item>
 <item>
+  <title>New position : Ass. Prof at CentraleSupélec</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I’m pleased to announce that as of December 1, I’ll be taking up the position of Assistant Professor at <a href="https://www.centralesupelec.fr/en">CentraleSupélec</a>. My research will be carried out in the <a href="https://www.geeps.centralesupelec.fr/index.php?page=home">GeePs</a> laboratory.</p>
+
+
+
+ ]]></description>
+  <category>Position</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</guid>
+  <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/geepsCSlogo.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
   <title>Implementation of FEM on interpetable neural networks</title>
   <link>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -115,6 +140,7 @@
 
 
 
+
 <p>I gave a <a href="https://ieeetv.ieee.org/video/pushing-creativity-further-in-electrical-machine-design-using-topology-optimization">IEEE Magnetic Society webinar</a> entitled “Pushing creativity further in electrical machine design using topology optimization”.</p>
 <iframe src="//ieeetv.ieee.org/player/embed_play/236546/auto" allowfullscreen="" frameborder="0" scrolling="no" width="100%">
 </iframe>
@@ -132,6 +158,7 @@
   <title>Keynote talk at CISTEM 2024</title>
   <link>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/</link>
   <description><![CDATA[ 
+
 
 
 
