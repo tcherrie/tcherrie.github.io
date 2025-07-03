@@ -10,7 +10,26 @@
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Tue, 14 Jan 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Compumag 2025</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This week I took part to the Compumag conference in Naples. I had three contributions together with colleagues from RICAM (<a href="https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn">Nepomuk Krenn</a> and <a href="https://www.oeaw.ac.at/ricam/staff/peter-gangl">Peter Gangl</a>), G2ELab (Stéphane Gaydier) and ENS Paris-Saclay (Itaï Zehavi).</p>
+<p>Congratulations to Stéphane, who won an honourable mention for his work and presentation on the optimization of the air gap profile of an inductor to minimize AC losses. The code is available <a href="https://github.com/StephLeMedef/inductance-compumag">here</a>.</p>
+
+
+
+ ]]></description>
+  <category>Conference</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</guid>
+  <pubDate>Wed, 25 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-06-26_compumag/stephane.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Thesis award : Paul Caseau 2024</title>
   <link>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</link>

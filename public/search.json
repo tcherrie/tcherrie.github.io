@@ -25,7 +25,7 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "Thesis award : Paul Caseau 2024\n\n\n\n\n\n\nAward\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThesis award : SEE Ampère 2024\n\n\n\n\n\n\nAward\n\n\nTalk\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nStudy of a new flux-switching machine\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew position : Ass. Prof at CentraleSupélec\n\n\n\n\n\n\nPosition\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImplementation of FEM on interpetable neural networks\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIEEE Magnetic Society webinar\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKeynote talk at CISTEM 2024\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Compumag 2025\n\n\n\n\n\n\nConference\n\n\n\n\n\n\n\n\n\nJun 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThesis award : Paul Caseau 2024\n\n\n\n\n\n\nAward\n\n\n\n\n\n\n\n\n\nJan 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nThesis award : SEE Ampère 2024\n\n\n\n\n\n\nAward\n\n\nTalk\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nStudy of a new flux-switching machine\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew position : Ass. Prof at CentraleSupélec\n\n\n\n\n\n\nPosition\n\n\n\n\n\n\n\n\n\nNov 7, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nImplementation of FEM on interpetable neural networks\n\n\n\n\n\n\nInternship offer\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIEEE Magnetic Society webinar\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKeynote talk at CISTEM 2024\n\n\n\n\n\n\nTalk\n\n\nPast\n\n\n\n\n\n\n\n\n\nOct 31, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -68,5 +68,12 @@
     "title": "Thesis award : Paul Caseau 2024",
     "section": "",
     "text": "It’s a great honour for me to have received the 2024 “Paul Caseau” thesis prize from EDF for my PhD work on topology optimization of electrical machines! Congratulation also to Thomas Bellotti, with whom I share the prize, and also to the other laureates Rémi Dorget and Candelaria Utrilla Bustamante Link to my PhD thesis (in French), and soon to the pictures of the ceremony."
+  },
+  {
+    "objectID": "posts/2025/2025-06-26_compumag/index.html",
+    "href": "posts/2025/2025-06-26_compumag/index.html",
+    "title": "Compumag 2025",
+    "section": "",
+    "text": "This week I took part to the Compumag conference in Naples. I had three contributions together with colleagues from RICAM (Nepomuk Krenn and Peter Gangl), G2ELab (Stéphane Gaydier) and ENS Paris-Saclay (Itaï Zehavi).\nCongratulations to Stéphane, who won an honourable mention for his work and presentation on the optimization of the air gap profile of an inductor to minimize AC losses. The code is available here."
   }
 ]
