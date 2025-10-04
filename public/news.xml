@@ -10,7 +10,86 @@
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 25 Jun 2025 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Oct 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Fête de la Science 2025</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Today, I gave a mini-conference at the “<a href="https://www.fetedelascience.fr/">Fête de la Science 2025</a>” at ENS Paris-Saclay on the topological optimization of electric motors, a popularization event. It’s always a pleasure to present my research to the general public! Thanks to Noemi Lanciotti for the photo.</p>
+<p><img src="https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/fete_science.png" title="ENS Paris-Saclay Atrium" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>Talks</category>
+  <category>Past</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/</guid>
+  <pubDate>Fri, 03 Oct 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/logo_fete_science.png" medium="image" type="image/png" height="159" width="144"/>
+</item>
+<item>
+  <title>Fête de la Science 2025</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Together with <a href="https://people.ricam.oeaw.ac.at/p.gangl/home.htm">Peter Gangl</a>, I am organizing a workshop entitled “<a href="https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/">Advanced Techniques for Design Optimization in Engineering Applications</a>”“. Many experts have confirmed their venues!</p>
+<p>Registration is free but mandatory; check out the program!</p>
+<p>This workshop is part of the <a href="https://www.ricam.oeaw.ac.at/specsem/specsem2025/">RICAM 2025 Special Semester</a> “Computational Methods for Electrical Machines.”</p>
+
+
+
+ ]]></description>
+  <category>Talks</category>
+  <category>Past</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/</guid>
+  <pubDate>Fri, 03 Oct 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/logo_fete_science.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Seminar LMS (X)</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>It was a pleasure and a honor to give a talk at <a href="https://lms.ip-paris.fr/en/overview">Laboratory of Solid Mechanics (LMS)</a>; I presented the adjoint method together with some applications on topology optimization and magnetic forces computations, and had a lot of very interesting discussions!</p>
+
+
+
+ ]]></description>
+  <category>Talks</category>
+  <category>Past</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/</guid>
+  <pubDate>Wed, 03 Sep 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/lms.png" medium="image" type="image/png" height="60" width="144"/>
+</item>
+<item>
+  <title>Visit to GRUCAD - UFSC</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Last week I had the chance to visit the <a href="https://grucad.ufsc.br/">GRUCAD</a> institute, part of the <a href="https://ufsc.br/"><em>Universidade Federal de Santa Catarina</em></a> located on the beautiful island of Florianópolis, Brazil, as part of the OPTIMAT3D project supported by CAPES-COFECUB (grant number Ph1079/25). Together with Pr. Laurent Bernard, we worked on the topology optimization of a nonlinear inductor.</p>
+<p><img src="https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/ufsc.png" title="Entry of the UFSC campus" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>Research stay</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/</guid>
+  <pubDate>Fri, 18 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/ufsc_grucad_logo.png" medium="image" type="image/png" height="164" width="144"/>
+</item>
 <item>
   <title>Compumag 2025</title>
   <link>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</link>
@@ -19,16 +98,17 @@
 
 
 
-<p>This week I took part to the Compumag conference in Naples. I had three contributions together with colleagues from RICAM (<a href="https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn">Nepomuk Krenn</a> and <a href="https://www.oeaw.ac.at/ricam/staff/peter-gangl">Peter Gangl</a>), G2ELab (Stéphane Gaydier) and ENS Paris-Saclay (Itaï Zehavi).</p>
-<p>Congratulations to Stéphane, who won an honourable mention for his work and presentation on the optimization of the air gap profile of an inductor to minimize AC losses. The code is available <a href="https://github.com/StephLeMedef/inductance-compumag">here</a>.</p>
+<p>This week, I took part in the Compumag conference in Naples. I had three contributions with colleagues from RICAM (<a href="https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn">Nepomuk Krenn</a> and <a href="https://www.oeaw.ac.at/ricam/staff/peter-gangl">Peter Gangl</a>), G2ELab (Stéphane Gaydier) and ENS Paris-Saclay (Itaï Zehavi).</p>
+<p>Congratulations to Stéphane, who received an honorable mention for his work and presentation on optimizing the air gap profile of an inductor to minimize AC losses! The code is available <a href="https://github.com/StephLeMedef/inductance-compumag">here</a>.</p>
+<p><img src="https://tcherrie.github.io/posts/2025/2025-06-26_compumag/stephane.jpg" title="Stephane presenting" class="img-fluid"></p>
 
 
 
  ]]></description>
-  <category>Conference</category>
+  <category>Conferences</category>
   <guid>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</guid>
   <pubDate>Wed, 25 Jun 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://tcherrie.github.io/posts/2025/2025-06-26_compumag/stephane.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-06-26_compumag/compumag_logo.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
   <title>Thesis award : Paul Caseau 2024</title>
@@ -38,12 +118,13 @@
 
 
 
-<p>It’s a great honour for me to have received the 2024 “Paul Caseau” thesis prize from <a href="https://www.edf.fr/">EDF</a> for my PhD work on <strong>topology optimization of electrical machines</strong>! Congratulation also to <a href="https://thomasbellotti.altervista.org/">Thomas Bellotti</a>, with whom I share the prize, and also to the other laureates <a href="https://www.linkedin.com/in/r%C3%A9mi-dorget-5a4b7313a/">Rémi Dorget</a> and <a href="https://www.linkedin.com/in/candela-utrilla/">Candelaria Utrilla Bustamante</a> Link to my <a href="https://theses.fr/2023UPAST159">PhD thesis</a> (in French), and soon to the pictures of the ceremony.</p>
+<p>It’s a great honour for me to have received the 2024 “Paul Caseau” thesis prize from <a href="https://www.edf.fr/">EDF</a> and <a href="https://www.academie-technologies.fr/">Académie des Technologies</a> for my PhD work on <strong>topology optimization of electrical machines</strong>! Congratulation also to <a href="https://thomasbellotti.altervista.org/">Thomas Bellotti</a>, with whom I share the prize, and also to the other laureates <a href="https://www.linkedin.com/in/r%C3%A9mi-dorget-5a4b7313a/">Rémi Dorget</a> and <a href="https://www.linkedin.com/in/candela-utrilla/">Candelaria Utrilla Bustamante</a>.</p>
+<p>Link to my <a href="https://theses.fr/2023UPAST159">PhD thesis</a> (in French), and soon to the pictures of the ceremony.</p>
 
 
 
  ]]></description>
-  <category>Award</category>
+  <category>Awards</category>
   <guid>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</guid>
   <pubDate>Tue, 14 Jan 2025 23:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/prixCaseauBandeau.png" medium="image" type="image/png" height="77" width="144"/>
@@ -56,13 +137,13 @@
 
 
 
-<p>It’s a great honour for me to have received the PhD thesis prize “Ampère” 2024 from <a href="https://see.asso.fr/">SEE</a> for my work on <strong>topology optimization of electrical machines</strong>! I gave a talk at the award ceremony, the slides are available <a href="le lien">here</a>. Congratulation also to [Icaro] Link to the <a href="blabla">pictures of the ceremony</a>, and to my PhD thesis (in French).</p>
+<p>It’s a great honour for me to have received the 2024 “Ampère” thesis prize from <a href="https://see.asso.fr/">SEE</a> for my work on <strong>topology optimization of electrical machines</strong>! I gave a talk at the award ceremony, the slides are available <a href="slidesSEE.pdf">here</a>. Congratulation also to <a href="https://www.linkedin.com/in/icarovsoares">Icaro Veloso Soraes</a> Link to my <a href="https://theses.fr/2023UPAST159">PhD thesis</a> (in French), and soon to the pictures of the ceremony.</p>
 
 
 
  ]]></description>
   <category>Award</category>
-  <category>Talk</category>
+  <category>Talks</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</guid>
   <pubDate>Mon, 09 Dec 2024 23:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/logoSEEAmpere.png" medium="image" type="image/png" height="144" width="144"/>
@@ -81,7 +162,7 @@
 
 
  ]]></description>
-  <category>Internship offer</category>
+  <category>Internship offers</category>
   <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/</guid>
   <pubDate>Wed, 06 Nov 2024 23:00:00 GMT</pubDate>
@@ -100,7 +181,7 @@
 
 
  ]]></description>
-  <category>Position</category>
+  <category>New position</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</guid>
   <pubDate>Wed, 06 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/geepsCSlogo.png" medium="image" type="image/png" height="76" width="144"/>
@@ -119,7 +200,7 @@
 
 
  ]]></description>
-  <category>Internship offer</category>
+  <category>Internship offers</category>
   <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</guid>
   <pubDate>Tue, 05 Nov 2024 23:00:00 GMT</pubDate>
@@ -140,7 +221,7 @@
 
 
  ]]></description>
-  <category>Talk</category>
+  <category>Talks</category>
   <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</guid>
   <pubDate>Tue, 05 Nov 2024 23:00:00 GMT</pubDate>
@@ -165,7 +246,7 @@
 
 
  ]]></description>
-  <category>Talk</category>
+  <category>Talks</category>
   <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/</guid>
   <pubDate>Wed, 30 Oct 2024 23:00:00 GMT</pubDate>

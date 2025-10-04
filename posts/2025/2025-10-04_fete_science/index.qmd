@@ -1,0 +1,12 @@
+---
+title: "Fête de la Science 2025"
+date: "2025-10-04"
+categories:
+    - "Talks"
+    - "Past"
+image: "logo_fete_science.png"
+---
+
+Today, I gave a mini-conference at the "[Fête de la Science 2025](https://www.fetedelascience.fr/)" at ENS Paris-Saclay on the topological optimization of electric motors, a popularization event. It's always a pleasure to present my research to the general public! Thanks to Noemi Lanciotti for the photo.
+
+![](fete_science.png "ENS Paris-Saclay Atrium")

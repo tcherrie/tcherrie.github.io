@@ -2,7 +2,7 @@
 title: "Thesis award : Paul Caseau 2024"
 date: "2025-01-15"
 categories:
-    - "Award"
+    - "Awards"
 image: "prixCaseauBandeau.png"
 ---
 

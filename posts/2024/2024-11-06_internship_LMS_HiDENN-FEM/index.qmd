@@ -2,7 +2,7 @@
 title: "Implementation of FEM on interpetable neural networks"
 date: "2024-11-06"
 categories:
-    - "Internship offer"
+    - "Internship offers"
     - "Past"
 image: "HiDENN-FEM.png"
 ---

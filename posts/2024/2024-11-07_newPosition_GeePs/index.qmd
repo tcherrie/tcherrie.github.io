@@ -2,7 +2,7 @@
 title: "New position : Ass. Prof at CentraleSupélec"
 date: "2024-11-07"
 categories:
-    - "Position"
+    - "New position"
 image: "geepsCSlogo.png"
 ---
 

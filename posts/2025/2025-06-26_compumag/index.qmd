@@ -2,10 +2,12 @@
 title: "Compumag 2025"
 date: "2025-06-26"
 categories:
-    - "Conference"
-image: "stephane.jpg"
+    - "Conferences"
+image: "compumag_logo.png"
 ---
 
 This week, I took part in the Compumag conference in Naples. I had three contributions with colleagues from RICAM ([Nepomuk Krenn](https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn) and [Peter Gangl](https://www.oeaw.ac.at/ricam/staff/peter-gangl)), G2ELab (Stéphane Gaydier) and ENS Paris-Saclay (Itaï Zehavi).
 
 Congratulations to Stéphane, who received an honorable mention for his work and presentation on optimizing the air gap profile of an inductor to minimize AC losses! The code is available [here](https://github.com/StephLeMedef/inductance-compumag).
+
+![](stephane.jpg "Stephane presenting")

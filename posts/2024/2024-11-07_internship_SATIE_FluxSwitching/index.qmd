@@ -2,7 +2,7 @@
 title: "Study of a new flux-switching machine"
 date: "2024-11-07"
 categories:
-    - "Internship offer"
+    - "Internship offers"
     - "Past"
 image: "FSM.png"
 ---

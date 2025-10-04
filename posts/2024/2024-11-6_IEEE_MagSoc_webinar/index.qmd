@@ -2,7 +2,7 @@
 title: "IEEE Magnetic Society webinar"
 date: "2024-11-06"
 categories:
-    - "Talk"
+    - "Talks"
     - "Past"
 image: "IEEEMagSoc.png"
 ---
