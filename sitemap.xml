@@ -1,47 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tcherrie.github.io/research.html</loc>
-    <lastmod>2025-07-03T10:17:24.205Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.136Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.158Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.166Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.136Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.167Z</lastmod>
+    <loc>https://tcherrie.github.io/news.html</loc>
+    <lastmod>2025-10-04T18:56:36.019Z</lastmod>
   </url>
   <url>
     <loc>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.167Z</lastmod>
+    <lastmod>2025-10-04T18:56:36.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.042Z</lastmod>
   </url>
   <url>
     <loc>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.163Z</lastmod>
+    <lastmod>2025-10-04T18:56:36.047Z</lastmod>
   </url>
   <url>
     <loc>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.162Z</lastmod>
+    <lastmod>2025-10-04T18:56:36.047Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.019Z</lastmod>
   </url>
   <url>
     <loc>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html</loc>
-    <lastmod>2025-07-03T10:17:24.166Z</lastmod>
+    <lastmod>2025-10-04T18:56:36.051Z</lastmod>
   </url>
   <url>
-    <loc>https://tcherrie.github.io/news.html</loc>
-    <lastmod>2025-07-03T10:17:24.136Z</lastmod>
+    <loc>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.019Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.051Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.057Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/index.html</loc>
+    <lastmod>2025-10-04T18:56:36.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcherrie.github.io/research.html</loc>
+    <lastmod>2025-10-04T18:56:36.107Z</lastmod>
   </url>
 </urlset>
