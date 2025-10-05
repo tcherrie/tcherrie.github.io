@@ -1,5 +1,5 @@
 ---
-title: "Fête de la Science 2025"
+title: "RICAM Special Semester - workshop 2"
 date: "2025-10-27"
 categories:
     - "Workshop"
