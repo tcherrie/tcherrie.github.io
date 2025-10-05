@@ -16,7 +16,7 @@ about:
       href: https://github.com/tcherrie?tab=repositories
     - icon: envelope
       text: Email
-      href: 'mailto: theodore.cherriere@ricam.oeaw.ac.at'
+      href: 'mailto: theodore.cherriere@centralesupelec.fr'
 format:
   html:
     page-layout: full

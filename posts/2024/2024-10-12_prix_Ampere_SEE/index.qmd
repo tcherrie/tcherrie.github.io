@@ -2,7 +2,7 @@
 title: "Thesis award : SEE Ampère 2024"
 date: "2024-12-10"
 categories:
-    - "Award"
+    - "Awards"
     - "Talks"
 image: "logoSEEAmpere.png"
 ---

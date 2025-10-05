@@ -23,14 +23,14 @@ website:
         text: Research
       - href: news.qmd
         text: News
-     # - href: Resources/chemin_pdf
-     #   text: le nom cliquable sur le site
-  # announcement: 
-  #  icon: info-circle
-  #  dismissable: true
-  #  content: "**Internship offers available** - [Study of a new flux-switching machine](/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/index.qmd), [Implementation of FEM on interpretable NN](/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/index.qmd)"
-  #  type: light
-  #  position: below-navbar
+      - href: Resources/CV_website.pdf
+        text: CV
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**RICAM Special Semester ** - October 27-31, Linz : [Workshop on Advanced techniques for design optimization in engineering applications](https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/)"
+    type: light
+    position: below-navbar
 
 format:
   html:
