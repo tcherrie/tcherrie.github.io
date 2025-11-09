@@ -25,12 +25,12 @@ website:
         text: News
       - href: Resources/CV_website.pdf
         text: CV
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**RICAM Special Semester ** - October 27-31, Linz : [Workshop on Advanced techniques for design optimization in engineering applications](https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/)"
-    type: light
-    position: below-navbar
+  #announcement: 
+  #  icon: info-circle
+  #  dismissable: true
+  #  content: "**RICAM Special Semester ** - October 27-31, Linz : [Workshop on Advanced techniques for design optimization in engineering applications](https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/)"
+  #  type: light
+  #  position: below-navbar
 
 format:
   html:
