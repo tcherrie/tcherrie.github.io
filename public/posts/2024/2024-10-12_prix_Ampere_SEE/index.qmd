@@ -1,0 +1,12 @@
+---
+title: "Thesis award : SEE Ampère 2024"
+date: "2024-12-10"
+categories:
+    - "Awards"
+    - "Talks"
+image: "logoSEEAmpere.png"
+---
+
+It's a great honour for me to have received the 2024 "Ampère" thesis prize from [SEE](https://see.asso.fr/) for my work on **topology optimization of electrical machines**! I gave a talk at the award ceremony, the slides are available [here](slidesSEE.pdf).
+Congratulation also to [Icaro Veloso Soraes](https://www.linkedin.com/in/icarovsoares)
+Link to my [PhD thesis](https://theses.fr/2023UPAST159) (in French), and soon to the pictures of the ceremony.

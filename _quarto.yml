@@ -4,6 +4,7 @@ project:
   resources:
     - "Resources"
     - "Hal_css.css"
+    - "posts/"
     - "Hal_css_dark.css"
     - "custom_hal.js"
     - "googlea2b49b9b8a1e1325.html"
@@ -21,6 +22,8 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: news.qmd
         text: News
       - href: Resources/CV_website.pdf

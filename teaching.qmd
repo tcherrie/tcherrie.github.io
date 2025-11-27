@@ -1,0 +1,33 @@
+---
+title: Teaching
+format:
+  html:
+    page-layout: full
+---
+
+## CentraleSupélec
+
+**Engineering curriculum** (Bachelor & Master level courses) :
+
+- Electrical engineering
+- Multi-energy systems
+- Wireless energy transfer
+- Electrical power conversion
+- Optimization
+
+## Université Paris-Saclay
+
+**Master courses**
+
+- Numerical modeling of physical problems
+- Optimization methods
+
+## IPSA Engineering school
+**Bachelor course**
+
+- On-board energy conversion
+
+## Tutorials
+
+- **Interactive Finite Element Method tutorial** : [link](https://tcherrie.github.io/tutorial_fem/lab/?path=student/Tutorial_FEM_GeePsNTalks.pdf)
+- **Topology optimization of a transformer** : [link](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)

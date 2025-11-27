@@ -10,7 +10,6 @@ format:
 <!-- Conteneur pour le premier type d'iframe (Publications) -->
 <div id="iframe-container"></div>
 
-## Work in progress
+## Codes
 
 - [Hiped package](https://github.com/tcherrie/Hiped) for hierarchical interpolations, useful in multi-material density-based topology optimization.
-- Many other related things...

@@ -1,0 +1,11 @@
+---
+title: "Visit to GRUCAD - UFSC"
+date: "2025-07-19"
+categories:
+    - "Research stay"
+image: "ufsc_grucad_logo.png"
+---
+
+Last week I had the chance to visit the [GRUCAD](https://grucad.ufsc.br/) institute, part of the [*Universidade Federal de Santa Catarina*](https://ufsc.br/) located on the beautiful island of Florianópolis, Brazil, as part of the OPTIMAT3D project supported by CAPES-COFECUB (grant number Ph1079/25). Together with Pr. Laurent Bernard, we worked on the topology optimization of a nonlinear inductor.
+
+![](ufsc.png "Entry of the UFSC campus")
