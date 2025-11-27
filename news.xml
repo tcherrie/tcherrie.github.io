@@ -9,7 +9,7 @@
 <link>https://tcherrie.github.io/news.html</link>
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
-<generator>quarto-1.8.25</generator>
+<generator>quarto-1.8.26</generator>
 <lastBuildDate>Mon, 27 Oct 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>RICAM Special Semester - workshop 2</title>
@@ -27,7 +27,6 @@
 
  ]]></description>
   <category>Workshop</category>
-  <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/</guid>
   <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/logo_ricam.png" medium="image" type="image/png" height="123" width="144"/>
@@ -48,7 +47,6 @@
 
  ]]></description>
   <category>Talks</category>
-  <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/</guid>
   <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/logo_fete_science.png" medium="image" type="image/png" height="147" width="144"/>
@@ -68,7 +66,6 @@
 
  ]]></description>
   <category>Talks</category>
-  <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/</guid>
   <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/lms.png" medium="image" type="image/png" height="137" width="144"/>
@@ -155,27 +152,6 @@
   <media:content url="https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/logoSEEAmpere.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
-  <title>Study of a new flux-switching machine</title>
-  <link>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Together with <a href="https://cv.hal.science/sami-hlioui">Pr. Sami Hlioui</a> (CY Cergy Paris University), we are looking for master students to study a new flux-switching machine found by topology optimization, potentially with a reduced quantity of rare earth permanent magnets. The detailed internship description can be found <a href="../../../posts/2024/2024-11-07_internship_SATIE_FluxSwitching/sujet4Stage_MCF.pdf">here</a> (in French).</p>
-<p><strong>Update</strong> : the position has been filled.</p>
-
-
-
- ]]></description>
-  <category>Internship offers</category>
-  <category>Past</category>
-  <guid>https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/</guid>
-  <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_internship_SATIE_FluxSwitching/FSM.png" medium="image" type="image/png" height="92" width="144"/>
-</item>
-<item>
   <title>New position : Ass. Prof at CentraleSupélec</title>
   <link>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</link>
   <description><![CDATA[ 
@@ -211,31 +187,9 @@
 
  ]]></description>
   <category>Talks</category>
-  <category>Past</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</guid>
   <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/IEEEMagSoc.png" medium="image" type="image/png" height="72" width="144"/>
-</item>
-<item>
-  <title>Implementation of FEM on interpetable neural networks</title>
-  <link>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Together with <a href="https://alexandredabyseesaram.github.io/">Dr.&nbsp;Alexandre Daby-Seesaram</a> (École Polytechnique), we are looking for master students to implement the finite element method on interpretable neural network architectures. The internship description can be found <a href="../../../posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM_stage.pdf">here</a> (in French).</p>
-<p><strong>Update</strong> : the position has been filled.</p>
-
-
-
- ]]></description>
-  <category>Internship offers</category>
-  <category>Past</category>
-  <guid>https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/</guid>
-  <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-06_internship_LMS_HiDENN-FEM/HiDENN-FEM.png" medium="image" type="image/png" height="67" width="144"/>
 </item>
 <item>
   <title>Keynote talk at CISTEM 2024</title>
@@ -258,7 +212,7 @@
 
  ]]></description>
   <category>Talks</category>
-  <category>Past</category>
+  <category>Conferences</category>
   <guid>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/</guid>
   <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
   <media:content url="https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/CISTEM.png" medium="image" type="image/png" height="73" width="144"/>

@@ -1,0 +1,9 @@
+---
+title: "Seminar LMS (X)"
+date: "2025-09-04"
+categories:
+    - "Talks"
+image: "lms.png"
+---
+
+It was a pleasure and a honor to give a talk at [Laboratory of Solid Mechanics (LMS)](https://lms.ip-paris.fr/en/overview); I presented the adjoint method together with some applications on topology optimization and magnetic forces computations, and had a lot of very interesting discussions!

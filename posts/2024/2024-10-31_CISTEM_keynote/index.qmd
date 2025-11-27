@@ -1,0 +1,12 @@
+---
+title: "Keynote talk at CISTEM 2024"
+date: "2024-10-31"
+categories:
+    - "Talks"
+    - "Conferences"
+image: "CISTEM.png"
+---
+
+I am honoured to give a keynote talk at [IEEE CISTEM 2024  conference](https://cistem2024.sciencesconf.org/?lang=en), entitled "Topology optimization of rotating electrical machines: state of the art and applications".
+
+![Main amphitheater of [ENSAM](http://ensam.um5.ac.ma/) engineering school in Rabat, Morocco](cistem2024.png "ENSAM amphitheater")

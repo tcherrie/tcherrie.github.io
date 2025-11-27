@@ -1,0 +1,12 @@
+---
+title: "Thesis award : Paul Caseau 2024"
+date: "2025-01-15"
+categories:
+    - "Awards"
+image: "prixCaseauBandeau.png"
+---
+
+It's a great honour for me to have received the 2024 "Paul Caseau" thesis prize from [EDF](https://www.edf.fr/) and [Académie des Technologies](https://www.academie-technologies.fr/) for my PhD work on **topology optimization of electrical machines**!
+Congratulation also to [Thomas Bellotti](https://thomasbellotti.altervista.org/), with whom I share the prize, and also to the other laureates [Rémi Dorget](https://www.linkedin.com/in/r%C3%A9mi-dorget-5a4b7313a/) and [Candelaria Utrilla Bustamante](https://www.linkedin.com/in/candela-utrilla/).
+
+Link to my [PhD thesis](https://theses.fr/2023UPAST159) (in French), and soon to the pictures of the ceremony.

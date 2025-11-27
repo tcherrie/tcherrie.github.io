@@ -1,0 +1,11 @@
+---
+title: "RICAM Special Semester - workshop 2"
+date: "2025-10-27"
+categories:
+    - "Workshop"
+image: "logo_ricam.png"
+---
+
+Together with [Peter Gangl](https://people.ricam.oeaw.ac.at/p.gangl/home.htm), I organized a workshop entitled "[Advanced Techniques for Design Optimization in Engineering Applications](https://www.ricam.oeaw.ac.at/specsem/specsem2025/workshop2/)". It was a great week with many interesting discussions with experts on design optimization.
+
+This workshop was part of the [RICAM 2025 Special Semester](https://www.ricam.oeaw.ac.at/specsem/specsem2025/) "Computational Methods for Electrical Machines."

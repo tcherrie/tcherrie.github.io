@@ -1,0 +1,11 @@
+---
+title: "IEEE Magnetic Society webinar"
+date: "2024-11-06"
+categories:
+    - "Talks"
+image: "IEEEMagSoc.png"
+---
+
+I gave a [IEEE Magnetic Society webinar](https://ieeetv.ieee.org/video/pushing-creativity-further-in-electrical-machine-design-using-topology-optimization) entitled "Pushing creativity further in electrical machine design using topology optimization".
+
+<iframe src="//ieeetv.ieee.org/player/embed_play/236546/auto" allowfullscreen frameborder="0" scrolling="no" width="100%"></iframe>
