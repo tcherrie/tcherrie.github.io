@@ -10,7 +10,28 @@
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Mon, 27 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Invited article in REE</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I warmly thank the <a href="see.asso.fr/">SEE</a> that gave me the opportunity to publish an article on my research in their journal <a href="https://see.asso.fr/la-ree-see/">Revue de l’Electricité et de l’Electronique</a>. The article (in French) is freely available <a href="https://see.asso.fr/wp-content/secure-file/linkfile.php?file=1766151183yAO34iCxvM">here</a>.</p>
+<p>Happy holidays!</p>
+<p><img src="https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/coverREE2025-4.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>Invited Article</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/</guid>
+  <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/REE.png" medium="image" type="image/png" height="142" width="144"/>
+</item>
 <item>
   <title>RICAM Special Semester - workshop 2</title>
   <link>https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/</link>

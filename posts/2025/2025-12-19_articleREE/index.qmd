@@ -1,0 +1,13 @@
+---
+title: "Invited article in REE"
+date: "2025-12-19"
+categories:
+    - "Invited Article"
+image: "REE.png"
+---
+
+I warmly thank the [SEE](see.asso.fr/) that gave me the opportunity to publish an article on my research in their journal [Revue de l'Electricité et de l'Electronique](https://see.asso.fr/la-ree-see/). The article (in French) is freely available [here](https://see.asso.fr/wp-content/secure-file/linkfile.php?file=1766151183yAO34iCxvM).
+
+Happy holidays!
+
+![](coverREE2025-4.png)
