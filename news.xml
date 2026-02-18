@@ -9,8 +9,28 @@
 <link>https://tcherrie.github.io/news.html</link>
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 19 Dec 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Funding for the DOLMEN project by CNRS MITI</title>
+  <link>https://tcherrie.github.io/posts/2025/2026-02-02_DOLMEN/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I thank the <a href="https://miti.cnrs.fr/#pll_switcher">CNRS - MITI</a> for funding our DOLMEN project “Design Optimal de Ligaments pour des Machines Electriques Novatrices” (Optimal Design of Ligament for Novel Electrical Machines). Together with <a href="https://dapogny.org/">Charles Dapogny</a>, we’ll explore the possibilities offered by a new mathematical tool developed by Charles, the calculuus of variations induced by <a href="https://www.numdam.org/item/SMAI-JCM_2021__7__185_0/">topological ligaments</a> in the optimal design of electrical machines.</p>
+<p><img src="https://tcherrie.github.io/posts/2025/2026-02-02_DOLMEN/logo_cnrs.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>Project</category>
+  <guid>https://tcherrie.github.io/posts/2025/2026-02-02_DOLMEN/</guid>
+  <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2026-02-02_DOLMEN/logo_cnrs.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Invited article in REE</title>
   <link>https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/</link>
