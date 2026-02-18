@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Théodore Cherrière</title>
+<link>https://tcherrie.github.io/news.html</link>
+<atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
+<description>Théodore Cherrière&#39;s personal webpage</description>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Sun, 01 Feb 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/posts/2025/2026-02-02_DOLMEN/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2026-02-02_DOLMEN/</link>
+  <description>{B4F502887207:/posts/2025/2026-02-02_DOLMEN/index.html}</description>
+  <category>Project</category>
+  <guid>https://tcherrie.github.io/posts/2025/2026-02-02_DOLMEN/</guid>
+  <pubDate>Sun, 01 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2026-02-02_DOLMEN/logo_cnrs.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2025/2025-12-19_articleREE/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/</link>
+  <description>{B4F502887207:/posts/2025/2025-12-19_articleREE/index.html}</description>
+  <category>Invited Article</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/</guid>
+  <pubDate>Thu, 18 Dec 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-12-19_articleREE/REE.png" medium="image" type="image/png" height="142" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2025/2025-10-27_SSworkshop2/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/</link>
+  <description>{B4F502887207:/posts/2025/2025-10-27_SSworkshop2/index.html}</description>
+  <category>Workshop</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/</guid>
+  <pubDate>Sun, 26 Oct 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-10-27_SSworkshop2/logo_ricam.png" medium="image" type="image/png" height="123" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2025/2025-10-04_fete_science/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/</link>
+  <description>{B4F502887207:/posts/2025/2025-10-04_fete_science/index.html}</description>
+  <category>Talks</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/</guid>
+  <pubDate>Fri, 03 Oct 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-10-04_fete_science/logo_fete_science.png" medium="image" type="image/png" height="147" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2025/2025-09-04_seminaire_LMS/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/</link>
+  <description>{B4F502887207:/posts/2025/2025-09-04_seminaire_LMS/index.html}</description>
+  <category>Talks</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/</guid>
+  <pubDate>Wed, 03 Sep 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-09-04_seminaire_LMS/lms.png" medium="image" type="image/png" height="137" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2025/2025-07-19_Bresil/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/</link>
+  <description>{B4F502887207:/posts/2025/2025-07-19_Bresil/index.html}</description>
+  <category>Research stay</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/</guid>
+  <pubDate>Fri, 18 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-07-19_Bresil/ufsc_grucad_logo.png" medium="image" type="image/png" height="137" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2025/2025-06-26_compumag/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</link>
+  <description>{B4F502887207:/posts/2025/2025-06-26_compumag/index.html}</description>
+  <category>Conferences</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-06-26_compumag/</guid>
+  <pubDate>Wed, 25 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-06-26_compumag/compumag_logo.png" medium="image" type="image/png" height="117" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2025/2025-01-15_prix_Caseau/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</link>
+  <description>{B4F502887207:/posts/2025/2025-01-15_prix_Caseau/index.html}</description>
+  <category>Awards</category>
+  <guid>https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/</guid>
+  <pubDate>Tue, 14 Jan 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2025/2025-01-15_prix_Caseau/prixCaseauBandeau.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2024/2024-10-12_prix_Ampere_SEE/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</link>
+  <description>{B4F502887207:/posts/2024/2024-10-12_prix_Ampere_SEE/index.html}</description>
+  <category>Awards</category>
+  <category>Talks</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/</guid>
+  <pubDate>Mon, 09 Dec 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-10-12_prix_Ampere_SEE/logoSEEAmpere.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2024/2024-11-07_newPosition_GeePs/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</link>
+  <description>{B4F502887207:/posts/2024/2024-11-07_newPosition_GeePs/index.html}</description>
+  <category>New position</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/</guid>
+  <pubDate>Wed, 06 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-07_newPosition_GeePs/geepsCSlogo.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</link>
+  <description>{B4F502887207:/posts/2024/2024-11-6_IEEE_MagSoc_webinar/index.html}</description>
+  <category>Talks</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/</guid>
+  <pubDate>Tue, 05 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-11-6_IEEE_MagSoc_webinar/IEEEMagSoc.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>{B4F502887207:/posts/2024/2024-10-31_CISTEM_keynote/index.html}</title>
+  <link>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/</link>
+  <description>{B4F502887207:/posts/2024/2024-10-31_CISTEM_keynote/index.html}</description>
+  <category>Talks</category>
+  <category>Conferences</category>
+  <guid>https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/</guid>
+  <pubDate>Wed, 30 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://tcherrie.github.io/posts/2024/2024-10-31_CISTEM_keynote/CISTEM.png" medium="image" type="image/png" height="73" width="144"/>
+</item>
+</channel>
+</rss>
