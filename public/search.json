@@ -306,5 +306,33 @@
     "title": "Topology optimization workshop - GDR SEEDS",
     "section": "",
     "text": "Together with my colleagues Maya Hage-Hassan (Associate Professor, CentraleSupélec), Thomas Gauthey (PhD student, CentraleSupélec/X/Safran) and Nepomuk Krenn (PhD Student, RICAM), we had the pleasure to organize a two-day workshop on topology optimization. During the first day (12/03/2026), we had very interesting presentations on topology optimization from academia and industry by:\n\nProf. Grégoire Allaire ('Ecole polytechnique, CMAP) : “Topology optimization of structures: old and new”\nDr. Olivier Brun (Siemens Digital Industries Software) : “Topology Optimization of electrical machines @ Siemens”\nPaolo Casco (COMSOL) : “Topology Optimization with COMSOL Multiphysics®”\nNepomuk Krenn (RICAM) : “Multiphysical Topology Optimization of an Electric Machine using Topological Derivatives”\n\nThe second day (13/03) was dedicated to a tutorial on topology optimization for PhD students. The material is available here, and will be updated and improved for the next sessions! Below a group picture of the attendees of the tutorial."
+  },
+  {
+    "objectID": "teaching.html#centralesupélec-2024-",
+    "href": "teaching.html#centralesupélec-2024-",
+    "title": "Teaching",
+    "section": "",
+    "text": "Engineering curriculum (Bachelor & Master level courses) :\n\nElectrical engineering\nMulti-energy systems\nWireless energy transfer\nElectrical power conversion\nOptimization"
+  },
+  {
+    "objectID": "teaching.html#université-paris-saclay-2024-",
+    "href": "teaching.html#université-paris-saclay-2024-",
+    "title": "Teaching",
+    "section": "Université Paris-Saclay (2024-…)",
+    "text": "Université Paris-Saclay (2024-…)\nMaster courses\n\nNumerical modeling of physical problems\nOptimization methods"
+  },
+  {
+    "objectID": "teaching.html#ipsa-engineering-school-2025-",
+    "href": "teaching.html#ipsa-engineering-school-2025-",
+    "title": "Teaching",
+    "section": "IPSA Engineering school (2025-…)",
+    "text": "IPSA Engineering school (2025-…)\nBachelor course\n\nOn-board energy conversion"
+  },
+  {
+    "objectID": "teaching.html#ensam-engineering-school-2026-",
+    "href": "teaching.html#ensam-engineering-school-2026-",
+    "title": "Teaching",
+    "section": "ENSAM Engineering school (2026-…)",
+    "text": "ENSAM Engineering school (2026-…)\nBachelor course\n\nElectrical circuits"
   }
 ]

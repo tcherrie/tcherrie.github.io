@@ -5,7 +5,7 @@ format:
     page-layout: full
 ---
 
-## CentraleSupélec
+## [CentraleSupélec](https://www.centralesupelec.fr/en/) (2024-...)
 
 **Engineering curriculum** (Bachelor & Master level courses) :
 
@@ -15,17 +15,22 @@ format:
 - Electrical power conversion
 - Optimization
 
-## Université Paris-Saclay
+## [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) (2024-...)
 
-**Master courses**
+**Master courses** 
 
 - Numerical modeling of physical problems
 - Optimization methods
 
-## IPSA Engineering school
-**Bachelor course**
+## [IPSA Engineering school](https://www.ipsa.fr/en/) (2025-...)
+**Bachelor course** 
 
 - On-board energy conversion
+
+## [ENSAM Engineering school](https://artsetmetiers.fr/en) (2026-...)
+**Bachelor course**
+
+- Electrical circuits
 
 ## Tutorials
 
