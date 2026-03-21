@@ -30,4 +30,5 @@ format:
 ## Tutorials
 
 - **Interactive Finite Element Method tutorial** : [link](https://tcherrie.github.io/tutorial_fem/lab/?path=student/Tutorial_FEM_GeePsNTalks.pdf)
-- **Topology optimization of a transformer** : [link](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS)
+- **Topology optimization of a transformer**
+[link](https://tcherrie.github.io/tutorial-topopt/lab/?path=student/0_index.ipynb); [older version](https://github.com/tcherrie/tutoriel_optimisation_topologique_GDR_SEEDS) (in French). 
