@@ -1,0 +1,11 @@
+---
+title: "Topology optimization workshop - GT Complex and Heterogeneous Systems"
+date: "2026-03-30"
+categories:
+    - "Workshop"
+image: "gdr_seeds.png"
+---
+
+I was invited by [Pierre Haessig](https://pierreh.eu/) and [Rémy Rigo-Mariani](https://cv.hal.science/remyrigo-mariani) to present my research during a [1-day workshop](https://gdr-macs.fr/node/5291) on Modeling and Optimization at CentraleSupélec, organized by [GDR SEEDS - GT Complex and heterogeneous systems](https://seeds.cnrs.fr/2026/01/27/reunion-gt-optimisation-save-the-date-30-03-2026/).
+
+My slides are available [here](2026_03_30_GT_Systeme_complexes_TC.pdf).
