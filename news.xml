@@ -9,7 +9,7 @@
 <link>https://tcherrie.github.io/news.html</link>
 <atom:link href="https://tcherrie.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Théodore Cherrière&#39;s personal webpage</description>
-<generator>quarto-1.9.36</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Mon, 30 Mar 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Topology optimization workshop - GT Complex and Heterogeneous Systems</title>
@@ -40,7 +40,7 @@
 
 
 
-<p>Together with my colleagues <a href="https://cv.hal.science/hagehassan-m">Maya Hage-Hassan</a> (Associate Professor, CentraleSupélec), <a href="https://www.centralesupelec.fr/chercheurs/thomas-gauthey">Thomas Gauthey</a> (PhD student, CentraleSupélec/X/Safran) and <a href="https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn">Nepomuk Krenn</a> (PhD Student, RICAM), we had the pleasure to organize a two-day workshop on topology optimization. During the first day (12/03/2026), we had very interesting presentations on topology optimization from academia and industry by:</p>
+<p>Together with my colleagues <a href="https://cv.hal.science/hagehassan-m">Maya Hage-Hassan</a> (Associate Professor, CentraleSupélec), <a href="https://www.centralesupelec.fr/chercheurs/thomas-gauthey">Thomas Gauthey</a> (PhD student, CentraleSupélec/X/Safran) and <a href="https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn">Nepomuk Krenn</a> (PhD Student, RICAM), we had the pleasure to organize a two-day workshop on topology optimization. The program is available <a href="Planning_Workshop_TO.pdf">here</a>. During the first day (12/03/2026), we had very interesting presentations on topology optimization from academia and industry by:</p>
 <ul>
 <li>Prof.&nbsp;<a href="http://www.cmap.polytechnique.fr/~allaire/">Grégoire Allaire</a> ('Ecole polytechnique, CMAP) : “Topology optimization of structures: old and new”</li>
 <li>Dr.&nbsp;Olivier Brun (Siemens Digital Industries Software) : “Topology Optimization of electrical machines @ Siemens”</li>
