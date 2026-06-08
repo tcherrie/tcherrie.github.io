@@ -6,7 +6,7 @@ categories:
 image: "gdr_seeds.png"
 ---
 
-Together with my colleagues [Maya Hage-Hassan](https://cv.hal.science/hagehassan-m) (Associate Professor, CentraleSupélec), [Thomas Gauthey](https://www.centralesupelec.fr/chercheurs/thomas-gauthey) (PhD student, CentraleSupélec/X/Safran) and [Nepomuk Krenn](https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn) (PhD Student, RICAM), we had the pleasure to organize a two-day workshop on topology optimization.
+Together with my colleagues [Maya Hage-Hassan](https://cv.hal.science/hagehassan-m) (Associate Professor, CentraleSupélec), [Thomas Gauthey](https://www.centralesupelec.fr/chercheurs/thomas-gauthey) (PhD student, CentraleSupélec/X/Safran) and [Nepomuk Krenn](https://www.oeaw.ac.at/ricam/staff/nepomuk-krenn) (PhD Student, RICAM), we had the pleasure to organize a two-day workshop on topology optimization. The program is available [here](Planning_Workshop_TO.pdf).
 During the first day (12/03/2026), we had very interesting presentations on topology optimization from academia and industry by:
 
 - Prof. [Grégoire Allaire](http://www.cmap.polytechnique.fr/~allaire/) (\'Ecole polytechnique, CMAP) : "Topology optimization of structures: old and new"
